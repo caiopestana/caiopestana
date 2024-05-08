@@ -2,7 +2,6 @@
 
 - 🌐 Atualmente trabalho como Analista de Marketing na StackX
 - 🌱 Estou iniciando meus estudos na programação
-- 😄 Pronouns: ele/ dele
 
 ##
 
