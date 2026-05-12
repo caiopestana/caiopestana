@@ -1,4 +1,4 @@
-### Oioi me chamo Caio Pestana, seja bem vindo ao meu perfil!
+### Oi me chamo Caio Pestana, seja bem vindo ao meu perfil.
 
 - 🌐 Atualmente trabalho como Analista de Marketing na StackX
 - 🌱 Estou iniciando meus estudos na programação
